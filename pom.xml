@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url></url>http://52.91.243.15:8081/repository/ziffynexus-snapshot/
+	      <url>http://52.91.243.15:8081/repository/ziffynexus-snapshot/
 	    </snapshotRepository>
 	    
 	</distributionManagement>
